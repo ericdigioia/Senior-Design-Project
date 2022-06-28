@@ -1,6 +1,8 @@
 # Senior-Design-Project
 
-My Senior Design project from Spring 2021 where I made a handheld game console from scratch (coded in C for a PIC24 microprocessor)
+My Senior Design project from Spring 2021 where I made a handheld game console from scratch (coded in C for a PIC24 microprocessor) in about 8 weeks.
 Please see the included [FinalDesignReport.pdf](https://github.com/ericdigioia/Senior-Design-Project/blob/main/FinalDesignReport.pdf) for all technical and design information.
 
 ![Preview_1](PreviewPhotos/front.jpg "Front of console")
+![Preview_2](PreviewPhotos/back.jpg "Back of console")
+![Preview_3](PreviewPhotos/withController.jpg "With external controller")
